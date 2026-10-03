@@ -26,7 +26,7 @@ A lightweight Python toolkit built to discover, connect to, and control Google H
 Clone the repo and spin up your environment:
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/chromecast-audio-controller.git](https://github.com/YOUR_GITHUB_USERNAME/chromecast-audio-controller.git)
+git clone https://github.com/tealnon/chromecast_audio_controller
 cd chromecast-audio-controller
 
 # Create and activate virtual environment
